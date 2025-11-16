@@ -9,9 +9,9 @@
 #
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bots logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
@@ -24,5 +24,5 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notpolnikii&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=fuckdeuc&locale=ru&theme=dark">
 </p>
