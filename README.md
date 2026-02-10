@@ -6,7 +6,8 @@ Minecraft Paper / Spigot плагины
 Discord & Telegram боты  
 
 ## Мои проекты
-- Soon...
+- [mSilkBedrock](https://modrinth.com/plugin/msilkbedrock)
+- [mPiglinXP](https://modrinth.com/plugin/mpiglinxp)
 
 ## Отзывы
 - "Потрясающий кодер! Всегда на связи, объясняет детали и работает мега-быстро. Плагины пишет идеально под запрос, оперативно фиксит баги. Лучший в своем деле! ❤️" — motuplay
