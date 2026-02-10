@@ -1,28 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=polnikii&style=flat&abbreviated=true)
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=fuckdeuc+-+frontend+developer" alt="Typing SVG" />
-  </a>
-</div>
+# Привет, я polnikii 👋
+Java / Python разработчик  
+Minecraft Paper / Spigot плагины  
+Discord & Telegram боты  
 
-#
+## Мои проекты
+- Soon...
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="12" />
-</div>
+## Отзывы
+> "Мне очень понравился его сервис так как объяснял все подробно и всегда был в сети чтобы помочь, все собрал в течение нескольких часов, плагины пишет хорошо, исправляя все ошибки и делал все точно как и просил, вообщем лучший кодер которого я пока что видел❤️" - motuplay
+> "Огромный респект Даке за подгон. Да, дороговато вышло, но по факту — вещь крутая, ни капли не жалко денег" - kekcuk2
 
-###
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuckdeuc&locale=ru&theme=dark">
-</p>
+## Контакты
+- Discord: justaduckky
+- Telegram: @avutamunoz
+- Modrinth: [ссылка](https://modrinth.com/user/polnikii)
